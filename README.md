@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Matii
 - 👀 I'm interested in learning technologies, programming languages and their frameworks!
-- ❤️ I've been learning: Java, C, C++, C#, Python, PHP and Laravel, JS, MySQL, CSS, HTML
+- ❤️ I've been learning: JavaScript, Java, C, C++, C#, Python, PHP, Laravel, React.JS, MySQL, CSS, HTML
 - 🌱 I'm always open to learn
 - 💞️ My objective is to be a software developer, as a back or front end developer!
 - 📫 How to reach me https://www.linkedin.com/in/mercadoMatiasC/
