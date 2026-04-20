@@ -2,5 +2,5 @@
 - 👀 I'm interested in learning technologies, programming languages and their frameworks!
 - ❤️ I've been learning: JavaScript, Java, C, C++, C#, Python, PHP, Laravel, React.JS, MySQL, CSS, HTML
 - 🌱 I'm always open to learn
-- 💞️ My objective is to be a software developer, as a back or front end developer!
+- 💞️ My objective is to be a software developer, as a full stack developer!
 - 📫 How to reach me https://www.linkedin.com/in/mercadoMatiasC/
